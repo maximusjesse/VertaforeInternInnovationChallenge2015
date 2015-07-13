@@ -1,4 +1,4 @@
-# Vertafore Intern Innovation
+# Vertafore Intern Innovation Challenge
 Date: 7/13/2015
 
 Collaboraters: 
@@ -8,7 +8,9 @@ Collaboraters:
 - [Jesse Zhao](jzhao@vertafore.com)
 
 ##Overview
-These are planning ideas for the 2015 Vertafore Intern Innovation Challenge.  This file is located at \\\grande\Personal_Files\JZhao\VertaforeInternInnovationChallenge2015\VertaforeInnovationChallenge.md , I'll regularly sync it to Github so you guys can add your thoughts/ideas.
+Recently, the interns of the organization have been assigned to create a project that falls under the theme "Make Vertafore Better". We would like your feedback on two ideas that we've been considering on implementing. Please give us your honest feedback, and if you would like to see your own idea implemented, please let us know and we'd love to consider it!
+
+This is a competitive assignment from Bothell's University Relations, so we'd love your support as we take on this challenge!
 
 ##Leankit Analytics
 ##### **Description**
@@ -24,7 +26,7 @@ LeanKit boards are tedious to manage and analyze quickly and efficiently.  A vis
 ##### **Description**
 Allows for a Quora-like Q&A type forum within the organization to help promote communication and innovation.  Users will be able to sign in with their own Vertafore credentials with a profile.  Questions can be tagged with relevant technologies or topics, and can be posted in relevant topics.  In Questions and Answers, users may tag specific users to prompt a response (which would send an email) for further domain expertise.
 
-Ideally, this site could assist in a reoccuring pain of lack of cross-team communication among the organization.  It's never a good idea to reinvent the wheel in our day-to-day technical challenges, and we hope to leverage the talent and expertise of the knowledge base in the Vertafore orgnization.
+Ideally, this site could assist in a reoccuring pain of lack of cross-team communication among the organization.  It's never a good idea to reinvent the wheel in our day-to-day technical challenges, and we hope to leverage the talent and expertise of the knowledge base in the Vertafore organization.
 
 ##Questions? Comments?
-Please email us through the links provided above if you have additional ideas you'd like to see implemented.
+Please email us through the links provided above if you have additional ideas you'd like to see implemented, or take the survey at: http://goo.gl/forms/tzkB1ShqM3 .  Feel free to pass this around, we'd appreciate as much feedback as possible!
