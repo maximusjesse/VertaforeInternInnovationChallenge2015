@@ -1,58 +1,30 @@
 # Vertafore Intern Innovation
-Collaboraters: Derek Chi, Amit Mondal, Chao Wu, Jesse Zhao
+Date: 7/13/2015
+
+Collaboraters: 
+- [Derek Chi](mailto:dchi@vertafore.com)
+- [Amit Mondal](amondal@vertafore.com)
+- [Chao Wu](cwu@vertafore.com)
+- [Jesse Zhao](jzhao@vertafore.com)
 
 ##Overview
 These are planning ideas for the 2015 Vertafore Intern Innovation Challenge.  This file is located at \\\grande\Personal_Files\JZhao\VertaforeInternInnovationChallenge2015\VertaforeInnovationChallenge.md , I'll regularly sync it to Github so you guys can add your thoughts/ideas.
 
 ##Leankit Analytics
 ##### **Description**
-Using Leankit API, we create a simple dashboard to quickly identify visually the current state of a particular LeanKit board.  Initial dashlets can include:
+Using Leankit API, we create a dashboard to quickly identify visually the current state of a particular LeanKit board.  This tool would allow board managers to plug-and-play their LeanKit boards to provide quick visualizations that's not provided out of the box by LeanKit flow metrics.  Some example widgets may include:
 - Outstanding cards
-- Cards by size
-- Cards by impact (how many other cards will it affect, how many people?)
+- Board Congestion
+- Analytics on Card Priority (Factoring Card Size, Due Date, Start Date, Assigned Users, etc.)
 
-##### **Challenges**
-- Has to surpass the widgets that are integrateable already in wiki.vertafore.com
-- May lack historical cards
-- Board layout dependent?
+LeanKit boards are tedious to manage and analyze quickly and efficiently.  A visual dashboard can reduce the feedback time to minutes/seconds and provide critical insights on development progress.
 
-##Vertafore Quora (Working title....)
+
+##Vertafore Question/Answers Board
 ##### **Description**
-Allows for a Quora-like Q&A type forum within the organization to help promote innovation.  But, we already have this... http://botd-devforums.devop.vertafore.com/default.aspx
+Allows for a Quora-like Q&A type forum within the organization to help promote communication and innovation.  Users will be able to sign in with their own Vertafore credentials with a profile.  Questions can be tagged with relevant technologies or topics, and can be posted in relevant topics.  In Questions and Answers, users may tag specific users to prompt a response (which would send an email) for further domain expertise.
 
-##### **Challenges**
-- We already have a forum that no one uses
-- Vertafore is slow to adopt new things...
+Ideally, this site could assist in a reoccuring pain of lack of cross-team communication among the organization.  It's never a good idea to reinvent the wheel in our day-to-day technical challenges, and we hope to leverage the talent and expertise of the knowledge base in the Vertafore orgnization.
 
-##Vertaforeddit
-##### **Description**
-Dumbass idea I had, mainly kept it cause I think it has a funny name.
-
-##### **Challenges**
-- Stupid
-
-##Conference Room Manager
-##### **Description**
-Seriously? It's 2015 and we're using an email system to check conference rooms?  Idk, seems a little archaic to me.  This would be a UI tool to see room avaibility and scheduling.
-
-##### **Challenges**
-- Using Outlook's rooms feature is not TOO awful, has to be significantly more convenient for people to adopt change.
-
-##Vertafore Organizational Chart 
-##### **Description**
-This tool would be an improvement to the existing org chart in MS Sharepoint.  It would better map/graph employees by team/location, as well as include skills/expertise for higher visibility.  Use case would mainly for people to track down other members in the organization to answer domain-specific questions.
-
-##### **Challenges**
-- We already have an org chart
-- LinkedIn Skills/Fields integration (would be unfeasible to expect people to enter their own skills/projects IMO)
-- Get internal organizational data
-
-##Vertafore Solution Forums
-##### **Description**
-This is mainly a forum to post problems and see if any other team has figured out a solution. It'll help overcome challenges that teams face
-and it will give a solution without wasting too much time. Why not share solutions cross teams?
-
-##### **Challenges**
-- This is a dev forum already. Can we just do this as a side thing?
-- User base throughout the company is key and requires that people constantly use this.
-- Awareness is also a factor
+##Questions? Comments?
+Please email us through the links provided above if you have additional ideas you'd like to see implemented.
