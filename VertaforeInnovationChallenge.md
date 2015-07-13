@@ -2,7 +2,7 @@
 Collaboraters: Derek Chi, Amit Mondal, Chao Wu, Jesse Zhao
 
 ##Overview
-These are planning ideas for the 2015 Vertafore Intern Innovation Challenge.  This file is located at \\grande\Personal_Files\JZhao\VertaforeInternInnovationChallenge2015\VertaforeInnovationChallenge.md , I'll regularly sync it to Github so you guys can add your thoughts/ideas.
+These are planning ideas for the 2015 Vertafore Intern Innovation Challenge.  This file is located at \\\grande\Personal_Files\JZhao\VertaforeInternInnovationChallenge2015\VertaforeInnovationChallenge.md , I'll regularly sync it to Github so you guys can add your thoughts/ideas.
 
 ##Leankit Analytics
 ##### **Description**
@@ -46,3 +46,13 @@ This tool would be an improvement to the existing org chart in MS Sharepoint.  I
 - We already have an org chart
 - LinkedIn Skills/Fields integration (would be unfeasible to expect people to enter their own skills/projects IMO)
 - Get internal organizational data
+
+##Vertafore Solution Forums
+##### **Description**
+This is mainly a forum to post problems and see if any other team has figured out a solution. It'll help overcome challenges that teams face
+and it will give a solution without wasting too much time. Why not share solutions cross teams?
+
+##### **Challenges**
+- This is a dev forum already. Can we just do this as a side thing?
+- User base throughout the company is key and requires that people constantly use this.
+- Awareness is also a factor
