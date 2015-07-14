@@ -29,4 +29,4 @@ Allows for a Quora-like Q&A type forum within the organization to help promote c
 Ideally, this site could assist in a reoccuring pain of lack of cross-team communication among the organization.  It's never a good idea to reinvent the wheel in our day-to-day technical challenges, and we hope to leverage the talent and expertise of the knowledge base in the Vertafore organization.
 
 ##Questions? Comments?
-Please email us through the links provided above if you have additional ideas you'd like to see implemented, or take the survey at: http://goo.gl/forms/tzkB1ShqM3 .  Feel free to pass this around, we'd appreciate as much feedback as possible!
+Please email us through the links provided above if you have additional ideas you'd like to see implemented, or take the [survey](http://goo.gl/forms/3Ptc2RNUgK).  Feel free to pass this around, we'd appreciate as much feedback as possible!
